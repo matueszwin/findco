@@ -1,0 +1,10 @@
+{
+    "name": "wp360/helpful-article",
+    "type": "wplugin",
+    "autoload": {
+        "psr-4": {
+            "wp360\\Helpful_Article\\": "src/"
+        }
+    },
+    "require": {}
+}
